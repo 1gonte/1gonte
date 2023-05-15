@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Georgii Sergeev 
 - 👀 I’m interested in QA and everything that is related 
-- 🌱 I’m currently learning QA engineering 
+- 🌱 I’m currently working as QA engineer 
 - 💞️ I’m looking to collaborate on testing some products 
 - 📫 How to reach me: egorsergeev744@mail.ru or telegram @1gonte
 
