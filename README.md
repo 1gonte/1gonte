@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA and everything that is related 
 - 🌱 I’m currently working as QA engineer 
 - 💞️ I’m looking to collaborate on testing some products 
-- 📫 How to reach me: egorsergeev744@mail.ru or telegram @1gonte
+- 📫 How to reach me: egorsergeev744@mail.ru or telegram @gonte1
 
 <!---
 1gonte/1gonte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
